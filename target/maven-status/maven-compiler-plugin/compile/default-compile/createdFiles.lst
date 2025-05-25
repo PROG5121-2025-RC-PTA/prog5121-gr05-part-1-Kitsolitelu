@@ -1,2 +1,5 @@
 chitchat\ChitChat.class
+chitchat\Message.class
+chitchat\UserManager.class
 chitchat\RegistrationLogin.class
+chitchat\MessageManager.class

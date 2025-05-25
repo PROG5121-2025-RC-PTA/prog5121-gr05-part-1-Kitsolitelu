@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: chitchat.RegistrationLoginTest
+Test set: chitchat.MessageTest
 -------------------------------------------------------------------------------
-Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.091 s -- in chitchat.RegistrationLoginTest
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.222 s -- in chitchat.MessageTest
