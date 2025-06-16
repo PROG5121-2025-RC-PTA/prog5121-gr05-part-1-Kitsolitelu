@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="chitchat.RegistrationLoginTest" time="0.091" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="chitchat.RegistrationLoginTest" time="1.004" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE\target\test-classes;C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE\target\classes;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Justin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Justin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Justin\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Justin\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Justin\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main\target\test-classes;C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main\target\classes;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Justin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Justin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Justin\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Justin\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Justin\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="user.timezone" value="Africa/Johannesburg"/>
+    <property name="user.country.format" value="150"/>
     <property name="os.name" value="Windows 11"/>
     <property name="java.vm.specification.version" value="21"/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Justin\AppData\Local\Temp\surefire5182570708331361354\surefirebooter-20250525091758037_3.jar C:\Users\Justin\AppData\Local\Temp\surefire5182570708331361354 2025-05-25T09-17-57_847-jvmRun1 surefire-20250525091758037_1tmp surefire_0-20250525091758037_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Justin\AppData\Local\Temp\surefire17648437080246325569\surefirebooter-20250613192639573_3.jar C:\Users\Justin\AppData\Local\Temp\surefire17648437080246325569 2025-06-13T19-26-37_990-jvmRun1 surefire-20250613192639573_1tmp surefire_0-20250613192639573_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE\target\test-classes;C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE\target\classes;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Justin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Justin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Justin\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Justin\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Justin\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main\target\test-classes;C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main\target\classes;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Justin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Justin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Justin\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Justin\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Justin\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Justin\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Justin"/>
     <property name="user.language" value="en"/>
@@ -25,12 +26,12 @@
     <property name="java.version.date" value="2025-01-21"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE"/>
+    <property name="basedir" value="C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Justin\AppData\Local\Temp\surefire5182570708331361354\surefirebooter-20250525091758037_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Justin\AppData\Local\Temp\surefire17648437080246325569\surefirebooter-20250613192639573_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.6+8-LTS-188"/>
@@ -46,7 +47,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Justin\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.6"/>
-    <property name="user.dir" value="C:\Users\Justin\source\CRUNCH-POES\ST10486804-PROG5121-POE"/>
+    <property name="user.dir" value="C:\Users\Justin\Downloads\PROG5121-POE-FINAL-GIT\Kitso\dev\prog5121-gr05-part-1-Kitsolitelu-main"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -59,19 +60,19 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testLoginWithNullUsername" classname="chitchat.RegistrationLoginTest" time="0.005"/>
-  <testcase name="testFailedRegistrationInvalidCellPhone" classname="chitchat.RegistrationLoginTest" time="0.004"/>
-  <testcase name="testFailedRegistrationInvalidPassword" classname="chitchat.RegistrationLoginTest" time="0.006"/>
-  <testcase name="testFailedLoginBothInvalid" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testLoginWithBothNull" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testSuccessfulRegistration" classname="chitchat.RegistrationLoginTest" time="0.003"/>
-  <testcase name="testFailedLoginInvalidPassword" classname="chitchat.RegistrationLoginTest" time="0.016"/>
-  <testcase name="testFailedRegistrationMultipleInvalidFields" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testLoginWithNullPassword" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testLoginWithoutRegistration" classname="chitchat.RegistrationLoginTest" time="0.003"/>
-  <testcase name="testFailedRegistrationInvalidLastName" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testSuccessfulLogin" classname="chitchat.RegistrationLoginTest" time="0.001"/>
-  <testcase name="testFailedRegistrationInvalidFirstName" classname="chitchat.RegistrationLoginTest" time="0.001"/>
-  <testcase name="testFailedRegistrationInvalidUsername" classname="chitchat.RegistrationLoginTest" time="0.002"/>
-  <testcase name="testFailedLoginInvalidUsername" classname="chitchat.RegistrationLoginTest" time="0.002"/>
+  <testcase name="testLoginWithNullUsername" classname="chitchat.RegistrationLoginTest" time="0.066"/>
+  <testcase name="testFailedRegistrationInvalidCellPhone" classname="chitchat.RegistrationLoginTest" time="0.115"/>
+  <testcase name="testFailedRegistrationInvalidPassword" classname="chitchat.RegistrationLoginTest" time="0.017"/>
+  <testcase name="testFailedLoginBothInvalid" classname="chitchat.RegistrationLoginTest" time="0.01"/>
+  <testcase name="testLoginWithBothNull" classname="chitchat.RegistrationLoginTest" time="0.05"/>
+  <testcase name="testSuccessfulRegistration" classname="chitchat.RegistrationLoginTest" time="0.023"/>
+  <testcase name="testFailedLoginInvalidPassword" classname="chitchat.RegistrationLoginTest" time="0.034"/>
+  <testcase name="testFailedRegistrationMultipleInvalidFields" classname="chitchat.RegistrationLoginTest" time="0.01"/>
+  <testcase name="testLoginWithNullPassword" classname="chitchat.RegistrationLoginTest" time="0.014"/>
+  <testcase name="testLoginWithoutRegistration" classname="chitchat.RegistrationLoginTest" time="0.031"/>
+  <testcase name="testFailedRegistrationInvalidLastName" classname="chitchat.RegistrationLoginTest" time="0.011"/>
+  <testcase name="testSuccessfulLogin" classname="chitchat.RegistrationLoginTest" time="0.022"/>
+  <testcase name="testFailedRegistrationInvalidFirstName" classname="chitchat.RegistrationLoginTest" time="0.025"/>
+  <testcase name="testFailedRegistrationInvalidUsername" classname="chitchat.RegistrationLoginTest" time="0.012"/>
+  <testcase name="testFailedLoginInvalidUsername" classname="chitchat.RegistrationLoginTest" time="0.18"/>
 </testsuite>
