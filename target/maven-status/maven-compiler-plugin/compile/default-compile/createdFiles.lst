@@ -1,0 +1,10 @@
+chitchat\ChatUI.class
+chitchat\Message.class
+chitchat\ChitChat.class
+chitchat\ReportsUI.class
+chitchat\LoginUI.class
+chitchat\UserManager.class
+chitchat\RegistrationLogin.class
+chitchat\ReportManager.class
+chitchat\ChatUI$1.class
+chitchat\MessageManager.class
